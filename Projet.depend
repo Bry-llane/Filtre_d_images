@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1618080299 source:c:\progc\projet\image.c
+	<stdio.h>
+	<stdlib.h>
+	"image.h"
+
+1617231322 c:\progc\projet\image.h
+
+1618085119 source:c:\progc\projet\interface.c
+	<stdio.h>
+	<stdlib.h>
+	"interface.h"
+
+1617230595 c:\progc\projet\interface.h
+	"image.h"
+	<stdbool.h>
+
+1618085245 source:c:\progc\projet\main.c
+	<stdio.h>
+	<stdlib.h>
+	"image.h"
+
